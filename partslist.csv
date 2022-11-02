@@ -1,101 +1,90 @@
-﻿1,"Bushing, ½-module, yellow",4239601,10
-2,"Axle with stud, 3-module, dark beige",6031821,2
-3,"Axle, 7-module, grey",4211805,5
-4,"Bushing, 1-module, grey",4211622,10
-5,"Axle with stop, 4-module, dark grey",4560177,2
-6,"Axle, 8-module, black",370726,2
-7,"Connector peg with friction, 2-module, black",4121715,60
-8,"Connector peg, 2-module, grey",4211807,10
-9,"Axle with stop, 8-module, dark grey",4499858,2
-10,"Axle, 9-module, grey",4535768,2
-11,"Connector peg with axle, 2-module, beige",4666579,8
-12,"Axle, 2-module, red",4142865,10
-13,"Axle, 10-module, black",373726,2
-14,"Connector peg, 3-module, beige",4514554,6
-15,"Axle, 3-module, grey",4211815,14
-16,"Connector peg with friction/axle,
-2-module, blue",4206482,20
-17,"Axle, 4-module, black",370526,4
-18,"Axle, 12-module, black",370826,2
-19,"Connector peg with friction, 3-module, blue",4514553,30
-20,"Axle, 5-module, grey",4211639,6
-21,"Pointer, 3-module, white",4173941,4
-22,"Connector peg with bushing, 3-module, red",4140806,22
-23,"Axle, 6-module, black",370626,4
-24,"T-Beam, 3x3-module, black",4552347,4
-25,"Beam with crosshole, 2-module, black",6006140,4
-26,"Angular beam, 4x4-module, white",4509912,6
-27,"Beam, 5-module, grey",4211651,4
-28,"Beam, 3-module, black",4142822,2
-29,"Beam, 3-module, green",6007973,4
-30,"Angular beam, 3x7-module, grey",4211624,4
-31,"Beam, 7-module, grey",4495930,4
-32,"Beam, 3-module, red",4153718,4
-33,"Angular beam, 4x6-module, black",4112282,4
-34,"Beam, 9-module, grey",4211866,6
-35,"Beam, 3-module, blue",4509376,4
-36,"Double angular beam, 3x7-module, white",4495412,4
-37,"Beam, 11-module, grey",4611705,4
-38,"Beam, 3-module, yellow",4153707,4
-39,"Angular beam, 2x4-module, red",4141270,6
-40,"Frame, 5x7-module, grey",4539880,3
-41,"Angular beam, 3x5-module, grey",4211713,2
-42,"Beam, 13-module, grey",4522934,6
-43,"Frame, 5x11-module, grey",4540797,1
-44,"Angular beam, 3x5-module, white",4585040,4
-45,"Beam, 15-module, white",4542578,6
-46,"Double connector peg, 3-module,
-grey",4560175,4
-47,"Cross block, 2x2-module, black",4140430,4
-48,"Angular block 1, 0º, black",4107085,4
-49,"Double connector peg,
-3x3-module, grey",4225033,6
-50,"Cross beam, 2x1-module, red",6008527,2
-51,"Angular block 2, 180º, black",4107783,4
-52,"Angular connector peg,
-3x3-module, grey",4296059,4
-53,"Connector peg with handle,
-3-module, black",4563044,2
-54,"Angular block, 6 (90º), black",4107767,2
-55,"Cross block, 2-module, grey",4211775,8
-56,"½ beam, 4-module, black",4142236,2
-57,"Rubber beam with crossholes,
-2-module, black",4198367,4
-58,"Cross block, 3-module, dark grey",4210857,8
-59,"½ triangle beam, 5x3-module, grey",6009019,4
-60,"Gear, 8-tooth, dark grey",4514559,4
-61,"Cross block, 3x2-module, grey",4538007,6
-62,"3-spoke angular block, 3x120º,
-grey",4502595,2
-63,"Bevel gear, 12-tooth, beige",4565452,2
-64,"Double cross block, 3-module,
-black",4121667,8
-65,"Tube, 2-module, grey",4526985,4
-66,"Gear, 16-tooth, grey",4640536,4
-67,"Cross block fork, 2x2-module,
-black",4162857,4
-68,"Bushing/axle extender, 2-module,
-red",4513174,6
-69,"Gear, 24-tooth, dark grey",4514558,4
-70,"Gear, 40-tooth, grey",4285634,2
-71,"Hub, 43.2x26 mm, grey",4634091,2
-72,"Sprocket, 40.7x15 mm, black",4582792,4
-73,"Double bevel gear, 12-tooth, black",4177431,2
-74,"Double bevel gear, 20-tooth, black",4177430,2
-75,"Low profile tire, 56x28 mm, black",6035364,2
-76,"Right curved panel, 5x11-module, black",4543490,1
-77,"Double bevel gear, 36-tooth, black",4255563,2
-78,"Tire, 30.4x4 mm, black",6028041,4
-79,"Worm gear, grey",4211510,2
-80,"Hub, 24x4 mm, dark grey",4587275,4
-81,"Left curved panel, 5x11-module,
-black",4541326,1
-82,"Gear, 4-tooth, black",4248204,4
-83,"Steel Ball, silver metallic",6023956,1
-84,"Turntable bottom, 28-tooth, grey",4652235,2
-85,"Ball bearing, dark grey",4610380,1
-86,"Left curved panel, 3x5-module, black",4566251,1
-87,"Turntable top, 28-tooth, black",4652236,2
-88,"Track, 5x1.5-module, black",6014648,54
-89,"Right curved panel, 3x5-module,
-black",4566249,1
+﻿id,name,part,count
+1,Bushing½moduleyellow,4239601,10
+2,Axlewithstud3moduledarkbeige,6031821,2
+3,Axle7modulegrey,4211805,5
+4,Bushing1modulegrey,4211622,10
+5,Axlewithstop4moduledarkgrey,4560177,2
+6,Axle8moduleblack,370726,2
+7,Connectorpegwithfriction2moduleblack,4121715,60
+8,Connectorpeg2modulegrey,4211807,10
+9,Axlewithstop8moduledarkgrey,4499858,2
+10,Axle9modulegrey,4535768,2
+11,Connectorpegwithaxle2modulebeige,4666579,8
+12,Axle2modulered,4142865,10
+13,Axle10moduleblack,373726,2
+14,Connectorpeg3modulebeige,4514554,6
+15,Axle3modulegrey,4211815,14
+16,Connectorpegwithfriction-axle-2moduleblue,4206482,20
+17,Axle4moduleblack,370526,4
+18,Axle12moduleblack,370826,2
+19,Connectorpegwithfriction3moduleblue,4514553,30
+20,Axle5modulegrey,4211639,6
+21,Pointer3modulewhite,4173941,4
+22,Connectorpegwithbushing3modulered,4140806,22
+23,Axle6moduleblack,370626,4
+24,TBeam3x3moduleblack,4552347,4
+25,Beamwithcrosshole2moduleblack,6006140,4
+26,Angularbeam4x4modulewhite,4509912,6
+27,Beam5modulegrey,4211651,4
+28,Beam3moduleblack,4142822,2
+29,Beam3modulegreen,6007973,4
+30,Angularbeam3x7modulegrey,4211624,4
+31,Beam7modulegrey,4495930,4
+32,Beam3modulered,4153718,4
+33,Angularbeam4x6moduleblack,4112282,4
+34,Beam9modulegrey,4211866,6
+35,Beam3moduleblue,4509376,4
+36,Doubleangularbeam3x7modulewhite,4495412,4
+37,Beam11modulegrey,4611705,4
+38,Beam3moduleyellow,4153707,4
+39,Angularbeam2x4modulered,4141270,6
+40,Frame5x7modulegrey,4539880,3
+41,Angularbeam3x5modulegrey,4211713,2
+42,Beam13modulegrey,4522934,6
+43,Frame5x11modulegrey,4540797,1
+44,Angularbeam3x5modulewhite,4585040,4
+45,Beam15modulewhite,4542578,6
+46,Doubleconnectorpeg3modulegrey,4560175,4
+47,Crossblock2x2moduleblack,4140430,4
+48,Angularblock10ºblack,4107085,4
+49,Doubleconnectorpeg3x3modulegrey,4225033,6
+50,Crossbeam2x1modulered,6008527,2
+51,Angularblock2180ºblack,4107783,4
+52,Angularconnectorpeg3x3modulegrey,4296059,4
+53,Connectorpegwithhandle3moduleblack,4563044,2
+54,Angularblock6-90º-black,4107767,2
+55,Crossblock2modulegrey,4211775,8
+56,½beam4moduleblack,4142236,2
+57,Rubberbeamwithcrossholes2moduleblack,4198367,4
+58,Crossblock3moduledarkgrey,4210857,8
+59,½trianglebeam5x3modulegrey,6009019,4
+60,Gear8toothdarkgrey,4514559,4
+61,Crossblock3x2modulegrey,4538007,6
+62,3spokeangularblock3x120ºgrey,4502595,2
+63,Bevelgear12toothbeige,4565452,2
+64,Doublecrossblock3moduleblack,4121667,8
+65,Tube2modulegrey,4526985,4
+66,Gear16toothgrey,4640536,4
+67,Crossblockfork2x2moduleblack,4162857,4
+68,Bushing-axleextender2modulered,4513174,6
+69,Gear24toothdarkgrey,4514558,4
+70,Gear40toothgrey,4285634,2
+71,Hub43.2x26mmgrey,4634091,2
+72,Sprocket40.7x15mmblack,4582792,4
+73,Doublebevelgear12toothblack,4177431,2
+74,Doublebevelgear20toothblack,4177430,2
+75,Lowprofiletire56x28mmblack,6035364,2
+76,Rightcurvedpanel5x11moduleblack,4543490,1
+77,Doublebevelgear36toothblack,4255563,2
+78,Tire30.4x4mmblack,6028041,4
+79,Wormgeargrey,4211510,2
+80,Hub24x4mmdarkgrey,4587275,4
+81,Leftcurvedpanel5x11moduleblack,4541326,1
+82,Gear4toothblack,4248204,4
+83,SteelBallsilvermetallic,6023956,1
+84,Turntablebottom28toothgrey,4652235,2
+85,Ballbearingdarkgrey,4610380,1
+86,Leftcurvedpanel3x5moduleblack,4566251,1
+87,Turntabletop28toothblack,4652236,2
+88,Track5x1.5moduleblack,6014648,54
+89,Rightcurvedpanel3x5moduleblack,4566249,1
